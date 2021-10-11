@@ -1,0 +1,50 @@
+@import 'https://fonts.googleapis.com/css?family=Scope+One';
+
+header {
+    padding: 2em;
+    background-color: #ffee00; 
+    margin-top: 2em;
+    text-align: center;
+    color: #000000
+    margin:auto;
+    padding:20px;
+    margin-top:40px;
+    font-size:25px;
+    font-family: 'Scope One', serif;
+
+.btn-large {
+    margin-top: 20em;
+    margin: 0.5em;
+    padding: 15px 32px;
+    font-family: 'Scope One', serif;
+}
+
+.card {
+    text-align: center;
+    width: 45em;
+    font-size: 2em;
+    text-align: center;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.new-quote-button {
+    background-color:#ffee00
+    border-color: #000000
+    font-family: 'Scope One', serif;
+    font-size: 16px;
+}
+
+.footer{
+    font-family: 'Scope One', serif;
+    font-size: 10px;
+    text-align: center;
+  }
+
+#button:hover {
+    background-color: teal;
+}
+
+#container {
+    justify-content: center;
+    align-items: center;
+}
