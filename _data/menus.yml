@@ -35,4 +35,5 @@ footermenu:
   url: "contact/"
   
 - title: Donate
-  url: ""
+  url: "https://www.buymeacoffee.com/shazwanyaziz"
+  external: true
