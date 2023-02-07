@@ -4,11 +4,11 @@ topmenu:
 - title: About
   url: "about/"
   
-- title: Blog
-  url: "index.html"
-  
 - title: Works
   url: "works/"
+  
+- title: Freebies
+  url: "freebies/"
   
 - title: Shop
   url: https://ukhtinur.etsy.com/
