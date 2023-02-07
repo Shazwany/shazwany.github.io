@@ -8,13 +8,14 @@ topmenu:
   url: "about/"
   
 - title: Blog
-  url: "shop/"
+  url: "index.html"
   
 - title: Works
   url: "works/"
   
 - title: Shop
   url: https://ukhtinur.etsy.com/
+  external: true
 
 - title: Contact
   url: "contact/"
@@ -35,7 +36,3 @@ footermenu:
 
 - title: Contact
   url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
-  external: true
