@@ -7,7 +7,6 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Shazwany
 paginate: 30
-disqus: 'demowebsite'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -28,8 +27,8 @@ authors:
     name: Shazwany
     display_name: Shazwany
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
+    email: shazwanyaziz@gmail.com
+    web: https://shazwany.github.io
     twitter: https://twitter.com/shazwanyaziz
 
 # Social
