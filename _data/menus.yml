@@ -2,7 +2,7 @@
 topmenu:
 
 - title: Home
-  url: "https://shazwany.github.io/"
+  url: "index.html"
 
 - title: About
   url: "about/"
