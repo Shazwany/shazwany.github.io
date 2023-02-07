@@ -6,11 +6,20 @@ topmenu:
 
 - title: About
   url: "about/"
+  
+- title: Blog
+  url: "shop/"
+  
+- title: Works
+  url: "works/"
+  
+- title: Shop
+  url: "https://ukhtinur.etsy.com/"
 
 - title: Contact
   url: "contact/"
 
-- title: Get this theme  
+- title: Get started  
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
