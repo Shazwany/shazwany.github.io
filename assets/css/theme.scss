@@ -105,7 +105,8 @@ small, .small {
 }
 .navigation-wrap {	
 	width: 100%;
-	top: 0;
+	top: 100;
+	/* top: 0 */
 	left: 0;
 	z-index: 9999;
 	-webkit-transition : all 0.3s ease-out;
