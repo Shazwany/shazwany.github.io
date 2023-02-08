@@ -1,8 +1,5 @@
 # Top Menu
 topmenu:
-
-- title: About
-  url: "about/"
   
 - title: Works
   url: "works/"
