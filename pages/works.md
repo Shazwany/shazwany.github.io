@@ -1,5 +1,5 @@
 ---
-layout: catagories
+layout: post
 title: Works
 permalink: "/works/"
 image: assets/images/screenshot.png
