@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "Found GUI Error on a Trading Software"
 categories: [ Jekyll, tutorial ]
 author: shazwany
 image: assets/images/1.jpg
