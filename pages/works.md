@@ -1,5 +1,5 @@
 ---
-layout: catalogue
+layout: catagories
 title: Works
 permalink: "/works/"
 image: assets/images/screenshot.png
