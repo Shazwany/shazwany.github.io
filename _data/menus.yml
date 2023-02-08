@@ -1,20 +1,20 @@
 # Top Menu
 topmenu:
   
-- title: Works
+- title: WORKS
   url: "works/"
   
-- title: Freebies
+- title: FREEBIES
   url: "freebies/"
   
-- title: Shop
+- title: SHOP
   url: https://ukhtinur.etsy.com/
   external: true
 
-- title: Contact
+- title: CONTACT
   url: "contact/"
 
-- title: Get started  
+- title: GET STARTED 
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
