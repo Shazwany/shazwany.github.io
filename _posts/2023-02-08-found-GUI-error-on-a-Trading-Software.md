@@ -5,6 +5,4 @@ categories: [ Jekyll, tutorial ]
 author: shazwany
 image: assets/images/1.jpg
 ---
-[TESTING] This is changed. As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that <a href="#">education should equip</a> them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
-
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+[TESTING] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
