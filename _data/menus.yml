@@ -2,16 +2,16 @@
 topmenu:
   
 - title: ABOUT
-  url: "freebies/"
+  url: "about/"
   
 - title: BLOG
-  url: "works/"
+  url: "blog/"
   
 - title: CONTACT
   url: "contact/"
 
 - title: SHOP
-  url: "works/"
+  url: "shop/"
   class: "ml-2 btn btn-dark text-white px-3"
   
 # Footer Menu
