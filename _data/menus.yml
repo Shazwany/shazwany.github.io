@@ -1,24 +1,19 @@
 # Top Menu
 topmenu:
   
-- title: SERVICES
-  url: "works/"
-  
 - title: ABOUT
   url: "freebies/"
   
-- title: SHOP
+- title: BLOG
   url: "works/"
-
+  
 - title: CONTACT
   url: "contact/"
-  class: "ml-2 btn btn-dark text-white px-3"
 
-- title: GET STARTED 
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: SHOP
+  url: "works/"
   class: "ml-2 btn btn-dark text-white px-3"
-  external: true
-
+  
 # Footer Menu
 footermenu:
 
